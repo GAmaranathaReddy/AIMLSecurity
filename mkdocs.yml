@@ -33,9 +33,9 @@ nav:
   - "Demystifying Neural Networks": demystifyingnn/wip.md
   - "ANN Vulnerabilities and Risk Mitigations": 
         - "Adversarial Examples": annvulnerabilitiesrisk/adv/wip.md 
-        - "Poisoning" : annvulnerabilitiesrisk/poisoning/wip.md
-        - "Model Attacks" : annvulnerabilitiesrisk/modelattacks/wip.md
-        - "Biases" : annvulnerabilitiesrisk/biases/wip.md
+        - "Poisoning": annvulnerabilitiesrisk/poisoning/wip.md
+        - "Model Attacks": annvulnerabilitiesrisk/modelattacks/wip.md
+        - "Biases": annvulnerabilitiesrisk/biases/wip.md
         
   - "LLM Vulnerabilities and Risk Mitigations": 
         - "Why LLM Security?": llmvulnerabilitiesrisk/whyllm/wip.md
