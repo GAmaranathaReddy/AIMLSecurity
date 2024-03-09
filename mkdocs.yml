@@ -31,9 +31,24 @@ markdown_extensions:
 nav:
   - "Main Page": index.md
   - "Demystifying Neural Networks": demystifyingnn/wip.md
-  - "ANN Vulnerabilities and Risk Mitigations": annvulnerabilitiesrisk/wip.md
-  - "LLM Vulnerabilities and Risk Mitigations": llmvulnerabilitiesrisk/wip.md
-  - "DevSecMLOps": devsecmlops/wip.md
+  - "ANN Vulnerabilities and Risk Mitigations": 
+        - "Adversarial Examples": annvulnerabilitiesrisk/adv/wip.md 
+        - "Poisoning" : annvulnerabilitiesrisk/poisoning/wip.md
+        - "Model Attacks" : annvulnerabilitiesrisk/modelattacks/wip.md
+        - "Biases" : annvulnerabilitiesrisk/biases/wip.md
+        
+  - "LLM Vulnerabilities and Risk Mitigations": 
+        - "Why LLM Security?": llmvulnerabilitiesrisk/whyllm/wip.md
+        - "Hallucinations": llmvulnerabilitiesrisk/hallucinations/wip.md
+        - "Prompt Injection": llmvulnerabilitiesrisk/promptinjection/wip.md
+        - "Data Poisoning": llmvulnerabilitiesrisk/datapoisoning/wip.md
+        - "Glitch Tokens": llmvulnerabilitiesrisk/glitchtokens/wip.md
+        - "Insecure Generation": llmvulnerabilitiesrisk/insecuregeneration/wip.md
+  - "DevSecMLOps": 
+        - "What is DevSecMLOps": devsecmlops/devsecmlops/wip.md
+        - "Data Supply Chain": devsecmlops/supplychain/wip.md
+        - "Tenant Isolation": devsecmlops/tenantisolation/wip.md
+        - "Data and Model Lineage": devsecmlops/datamodellineage/wip.md
 
 repo_url: https://github.com/GAmaranathaReddy/AIMLSecurity
 repo_name: G AmaranathaReddy/AIMLSecurity
