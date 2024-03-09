@@ -31,8 +31,8 @@ markdown_extensions:
 nav:
   - "Main Page": index.md
   - "Demystifying Neural Networks": demystifyingnn/wip.md
-  - "ANN Vulnerabilities and Risk Mitigations": ANNVulnerabilitiesRisk/wip.md
-  - "LLM Vulnerabilities and Risk Mitigations": LLMVulnerabilitiesRisk/wip.md
+  - "ANN Vulnerabilities and Risk Mitigations": annvulnerabilitiesrisk/wip.md
+  - "LLM Vulnerabilities and Risk Mitigations": llmvulnerabilitiesrisk/wip.md
   - "DevSecMLOps": devsecmlops/wip.md
 
 repo_url: https://github.com/GAmaranathaReddy/AIMLSecurity
