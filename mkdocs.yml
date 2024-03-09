@@ -45,7 +45,7 @@ nav:
         - "Glitch Tokens": llmvulnerabilitiesrisk/glitchtokens/wip.md
         - "Insecure Generation": llmvulnerabilitiesrisk/insecuregeneration/wip.md
   - "DevSecMLOps": 
-        - "What is DevSecMLOps": devsecmlops/devsecmlops/wip.md
+        - "What is DevSecMLOps": devsecmlops/wtdevsecmlops/wip.md
         - "Data Supply Chain": devsecmlops/supplychain/wip.md
         - "Tenant Isolation": devsecmlops/tenantisolation/wip.md
         - "Data and Model Lineage": devsecmlops/datamodellineage/wip.md
