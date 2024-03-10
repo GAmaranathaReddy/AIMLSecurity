@@ -1,6 +1,6 @@
 # 🚧 We're Building Something Amazing! 🚧
 
-![page_under_construction](../assets/ai_platform_page_under_construction.png)
+![page_under_construction](../../assets/ai_platform_page_under_construction.png)
 
 
 **Oops! You've caught us in the middle of our creative process.**
